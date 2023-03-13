@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CurrencyEx_3</string>
+    <string name="amount">Amount</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="calculate" translatable="false">Calculate</string>
+    <string-array name="currencies">
+        <item>MAD</item>
+        <item>USd</item>
+        <item>EUR</item>
+
+
+    </string-array>
+</resources>
